@@ -1,6 +1,6 @@
 # Pizza-Sales-Dashboard
 
-alt_text[https://res.cloudinary.com/dk2tex4to/image/upload/v1783696636/Screenshot_2026-07-10_221645_urt1oj.png]
+![alt_text](https://res.cloudinary.com/dk2tex4to/image/upload/v1783696636/Screenshot_2026-07-10_221645_urt1oj.png)
 
 ## Business Questions
 
